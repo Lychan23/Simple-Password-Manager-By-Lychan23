@@ -6,5 +6,8 @@ This is a password manager with authentication process
 ```bash
 git clone https://github.com/Lychan23/Simple-Password-Manager.git
 ```
+```
+From release
+```
 ## Version
 1.0 for windows 64
